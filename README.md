@@ -14,7 +14,7 @@
 
 
 ## 🎓 사용 기술
-
+<!-- 
 ### INFRA
 
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -57,7 +57,36 @@
 
 <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion">
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira">
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira"> -->
+
+### INFRA
+
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/-Eclipse_mosquitto-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white">
+
+### BACKEND
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
+
+### FRONTEND
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
+
+### EMBEDDED
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"> <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
+
+### Database
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+### AI
+
+<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/opencv-412991?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/yolov11-1E96EB?style=for-the-badge&logo=yolo&logoColor=white">
+
+### Management
+
+<img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion"> <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira">
+
 
 ## 💪 Yes,Guys - 팀원 소개
 
@@ -113,11 +142,15 @@
 
 ## 🏭 서비스 소개
 
-### 😎 불량 너트 자동 선별 시스템 (정상, 재사용 가능, 불량)
+<!-- ### 😎 불량 너트 자동 선별 시스템 (정상, 재사용 가능, 불량)
 
 <img src="./READMEIMG/service/1.PNG" height="250px">
 <img src="./READMEIMG/service/2.PNG" height="250px">
-<img src="./READMEIMG/service/3.PNG" height="250px">
+<img src="./READMEIMG/service/3.PNG" height="250px"> -->
+### 😎 불량 너트 자동 선별 시스템 (정상, 재사용 가능, 불량)
+
+<img src="./READMEIMG/service/1.PNG" height="250px"> <img src="./READMEIMG/service/2.PNG" height="250px"> <img src="./READMEIMG/service/3.PNG" height="250px">
+
 
 <br/>
 
