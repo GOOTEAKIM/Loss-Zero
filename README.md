@@ -14,50 +14,6 @@
 
 
 ## 🎓 사용 기술
-<!-- 
-### INFRA
-
-<img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/-Eclipse_mosquitto-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white">
-
-### BACKEND
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-<img src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-
-### FRONTEND
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-
-### EMBEDDED
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-
-### Database
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-### AI
-
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-412991?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/yolov11-1E96EB?style=for-the-badge&logo=yolo&logoColor=white">
-
-### Management
-
-<img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion">
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira"> -->
 
 ### INFRA
 
@@ -90,7 +46,7 @@
 
 ## 💪 Yes,Guys - 팀원 소개
 
-<table style="table-layout: fixed;">
+<!-- <table style="table-layout: fixed;">
   <tr>
     <td style="text-align: center;">
         <img src="./READMEIMG/Profile/khs.png" width="150" height="150">
@@ -136,17 +92,78 @@
     <td style="text-align: center; word-wrap: break-word;">데이터 수집 및 AI 전이 학습 모델 생성 <br/> MQTT 인프라 구축 <br/> 실시간 생산 기능 Backend 구현 <br/> Raspberry-Pi 통신 및 이미지 탐지 서비스 구현 <br/> PPT 제작</td>
     <td style="text-align: center; word-wrap: break-word;">API 및 DB 설계, 개발</td>
   </tr>
-</table>
+</table> -->
 
-<br/>
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center;">
+        <img src="./READMEIMG/Profile/khs.png" style="width: 150px; height: 150px; object-fit: cover;">
+    </td>
+    <td style="text-align: center;">
+        <img src="./READMEIMG/Profile/kgt.png" style="width: 150px; height: 150px; object-fit: cover;">
+    </td>
+    <td style="text-align: center;">
+        <img src="./READMEIMG/Profile/swh.png" style="width: 150px; height: 150px; object-fit: cover;">
+    </td>
+    <td style="text-align: center;">
+        <img src="./READMEIMG/Profile/ejm.jpg" style="width: 150px; height: 150px; object-fit: cover;">
+    </td>
+    <td style="text-align: center;">
+        <img src="./READMEIMG/Profile/lkt.png" style="width: 150px; height: 150px; object-fit: cover;">
+    </td>
+    <td style="text-align: center;">
+        <img src="./READMEIMG/Profile/lch.png" style="width: 150px; height: 150px; object-fit: cover;">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; word-wrap: break-word;">강현성 (팀장)</td>
+    <td style="text-align: center; word-wrap: break-word;">김구태</td>
+    <td style="text-align: center; word-wrap: break-word;">손우혁</td>
+    <td style="text-align: center; word-wrap: break-word;">어지민</td>
+    <td style="text-align: center; word-wrap: break-word;">임경태</td>
+    <td style="text-align: center; word-wrap: break-word;">이창호<br>(취업으로 중도퇴소)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; word-wrap: break-word;">
+      PM <br/>
+      온디바이스 시스템 구축 <br/>
+      HW Sourcing
+    </td>
+    <td style="text-align: center; word-wrap: break-word;">
+      인프라 및 CI / CD 구축 <br/>
+      HW 설계, 제작 <br/>
+      컨베이어 벨트 제어 <br/>
+      MQTT 연결 보조
+    </td>
+    <td style="text-align: center; word-wrap: break-word;">
+      공장 HW 구축 및 통신 연결 <br/>
+      3DOF 로봇 팔 역기구학 <br/>
+      시뮬레이션 개발 및 제어 <br/>
+      네오 픽셀 LED, 전자석 등 <br/>
+      주변 전자 부품 제어
+    </td>
+    <td style="text-align: center; word-wrap: break-word;">
+      대시보드 레이아웃 설계 및 제작 <br/>
+      컨베이어 벨트 제어 <br/>
+      MQTT 연결 <br/>
+      HW 제작 보조
+    </td>
+    <td style="text-align: center; word-wrap: break-word;">
+      데이터 수집 및 AI 전이 학습 모델 생성 <br/>
+      MQTT 인프라 구축 <br/>
+      실시간 생산 기능 Backend 구현 <br/>
+      Raspberry-Pi 통신 및 <br/>
+      이미지 탐지 서비스 구현 <br/>
+      PPT 제작
+    </td>
+    <td style="text-align: center; word-wrap: break-word;">
+      API 및 DB 설계, 개발
+    </td>
+  </tr>
+</table>
 
 ## 🏭 서비스 소개
 
-<!-- ### 😎 불량 너트 자동 선별 시스템 (정상, 재사용 가능, 불량)
-
-<img src="./READMEIMG/service/1.PNG" height="250px">
-<img src="./READMEIMG/service/2.PNG" height="250px">
-<img src="./READMEIMG/service/3.PNG" height="250px"> -->
 ### 😎 불량 너트 자동 선별 시스템 (정상, 재사용 가능, 불량)
 
 <img src="./READMEIMG/service/1.PNG" height="250px"> <img src="./READMEIMG/service/2.PNG" height="250px"> <img src="./READMEIMG/service/3.PNG" height="250px">
