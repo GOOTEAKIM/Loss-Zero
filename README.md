@@ -123,6 +123,14 @@
     <td style="text-align: center; word-wrap: break-word;">임경태</td>
     <td style="text-align: center; word-wrap: break-word;">이창호<br>(취업으로 중도퇴소)</td>
   </tr>
+    <tr>
+    <td style="text-align: center; word-wrap: break-word;">EM / FE<br></td>
+    <td style="text-align: center; word-wrap: break-word;">INFRA / EM</td>
+    <td style="text-align: center; word-wrap: break-word;">EM</td>
+    <td style="text-align: center; word-wrap: break-word;">EM / FE</td>
+    <td style="text-align: center; word-wrap: break-word;">AI / BE</td>
+    <td style="text-align: center; word-wrap: break-word;">BE / INFRA</td>
+  </tr>
   <tr>
     <td style="text-align: center; word-wrap: break-word;">
       PM <br/>
