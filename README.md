@@ -46,54 +46,6 @@
 
 ## 💪 Yes,Guys - 팀원 소개
 
-<!-- <table style="table-layout: fixed;">
-  <tr>
-    <td style="text-align: center;">
-        <img src="./READMEIMG/Profile/khs.png" width="150" height="150">
-    </td>
-    <td style="text-align: center;">
-        <img src="./READMEIMG/Profile/kgt.png" width="150" height="150">
-    </td>
-    <td style="text-align: center;">
-        <img src="./READMEIMG/Profile/swh.png" width="150" height="150">
-    </td>
-    <td style="text-align: center;">
-        <img src="./READMEIMG/Profile/ejm.jpg" width="150" height="150">
-    </td>
-    <td style="text-align: center;">
-        <img src="./READMEIMG/Profile/lkt.png" width="150" height="150">
-    </td>
-    <td style="text-align: center;">
-        <img src="./READMEIMG/Profile/lch.png" width="150" height="150">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; word-wrap: break-word;">강현성 (팀장)</td>
-    <td style="text-align: center; word-wrap: break-word;">김구태</td>
-    <td style="text-align: center; word-wrap: break-word;">손우혁</td>
-    <td style="text-align: center; word-wrap: break-word;">어지민</td>
-    <td style="text-align: center; word-wrap: break-word;">임경태</td>
-    <td style="text-align: center; word-wrap: break-word;">이창호 (취업으로 중도퇴소)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; word-wrap: break-word;">EM / FE<br></td>
-    <td style="text-align: center; word-wrap: break-word;">INFRA / EM</td>
-    <td style="text-align: center; word-wrap: break-word;">EM</td>
-    <td style="text-align: center; word-wrap: break-word;">EM / FE</td>
-    <td style="text-align: center; word-wrap: break-word;">AI / BE</td>
-    <td style="text-align: center; word-wrap: break-word;">BE / INFRA</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; word-wrap: break-word;">PM <br/> 온디바이스 시스템 구축 <br/> HW Sourcing</td>
-    <td style="text-align: center; word-wrap: break-word;">인프라 및 CI / CD 구축 <br/> HW 설계, 제작 <br/> 컨베이어 벨트 제어 <br/> MQTT 연결 보조</td>
-    <td style="text-align: center; word-wrap: break-word;">공장 HW 구축 및 통신 연결 <br/> 3DOF 로봇 팔 역기구학 시뮬레이션 개발 및 제어 <br/>
-네오 픽셀 LED, 전자석 등 주변 전자 부품 제어</td>
-    <td style="text-align: center; word-wrap: break-word;">대시보드 레이아웃 설계 및 제작 <br/> 컨베이어 벨트 제어<br/> MQTT 연결<br/> HW 제작 보조</td>
-    <td style="text-align: center; word-wrap: break-word;">데이터 수집 및 AI 전이 학습 모델 생성 <br/> MQTT 인프라 구축 <br/> 실시간 생산 기능 Backend 구현 <br/> Raspberry-Pi 통신 및 이미지 탐지 서비스 구현 <br/> PPT 제작</td>
-    <td style="text-align: center; word-wrap: break-word;">API 및 DB 설계, 개발</td>
-  </tr>
-</table> -->
-
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
@@ -288,6 +240,14 @@
     <br></td>
     <td style="text-align: center; word-wrap: break-word;"> 끝단에 전자석을 부착하여 금속 너트를 처리 <br>
     CATIA V5를 활용해 설계한 구조물을 3D 프린터로 출력하여 제작
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+         <img src="./READMEIMG/HW/nutsort_working.gif" height="450px"> 
+    </td>
+    <td style="text-align: center;">
+         <img src="./READMEIMG/HW/arm_working.gif" height="450px"> 
     </td>
   </tr>
 </table>
